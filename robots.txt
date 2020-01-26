@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://theitaequ.khalidtalakshi.com/sitemap.xml
